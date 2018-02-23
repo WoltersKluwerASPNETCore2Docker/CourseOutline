@@ -63,6 +63,15 @@ learn multi-container applications, orchestration, continuous integration, and d
   - Dependencies
   - Action Results
 
+### **Web APIs (moved earlier due to Web API concentration)**
+  - Introduction
+  - Retrieval Operations
+  - Create Operations
+  - Update Operations
+  - Delete Operations
+  - Bad Requests
+  - Cross-Origin Resource Sharing (CORS)
+
 ### **Views (light due to Web API concentration and Angular discussion)**
   - Differences from Previous Versions
   - Conventions
@@ -97,15 +106,7 @@ learn multi-container applications, orchestration, continuous integration, and d
   - Input Tag Helpers
   - Validation Tag Helpers
 
-### **Web APIs (moved earlier due to Web API concentration)**
-  - Introduction
-  - Retrieval Operations
-  - Create Operations
-  - Update Operations
-  - Delete Operations
-  - Bad Requests
-  - Cross-Origin Resource Sharing (CORS)
-
+<!-- Day 3 -->
 ### **Angular and Web APIs (moved earlier due to Web API concentration)**
   - Where does Angular fit in with ASP.NET Core
   - Web API vs Combining Angular with ASP.NET MVC
@@ -116,7 +117,6 @@ learn multi-container applications, orchestration, continuous integration, and d
   - Services and Dependency Injection
   - Routing
 
-<!-- Day 3 -->
 ### **Authentication**
   - Introduction
   - NET Core Identity
@@ -146,13 +146,13 @@ learn multi-container applications, orchestration, continuous integration, and d
   - Testing Controllers
   - Integration Testing
 
+<!-- Day 4 -->
 ### **Deployment**
   - Page and View Compilation
   - Kestrel as an Edge Server
   - IIS as a Reverse Proxy
   - Other Reverse Proxy Options
 
-<!-- Day 4 -->
 ### **Architectural and Other Best Practice Concepts**
   - Microservice Architecture and Design
   - Message Queuing with .NET Core
